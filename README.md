@@ -1,2 +1,11 @@
-# Clculadora-Figuras-Geometricas
- Con esta podras calcular diferentes caracteristicas de las figuras geometricas como lo son, perimetro, area y altura
+# curso-practico-javascript
+
+...
+
+## Taller #1: Figuras Geométricas.
+
+- 1: Definir las formas.
+- 2: Implementar las formulas en JS
+- 3: Crear funciones 
+- 4: Integrar JS con HTML
+
